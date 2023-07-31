@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30081719252",
+    "project_id": "quiz-login-53767",
+    "storage_bucket": "quiz-login-53767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30081719252:android:0037a1e47f32d589c11441",
+        "android_client_info": {
+          "package_name": "com.example.quizlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30081719252-fth0f70ffruh58ec93s7kc95on86ecbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1boLd2ILZqKkal2NcourM14wriGoLRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30081719252-fth0f70ffruh58ec93s7kc95on86ecbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
